@@ -6,7 +6,7 @@ Papers on cloud tech, written by cloud companies
 ### Blobs
 
 1. Windows Azure Storage Blob(WASB) [[paper](http://sigops.org/sosp/sosp11/current/2011-Cascais/printable/11-calder.pdf)] [[talk](https://www.youtube.com/watch?v=QnYdbQO0yj4)] [[slides](http://sigops.org/sosp/sosp11/current/2011-Cascais/11-calder.pptx)]
-2. Azure Data Lake Store (ADLA) [[paper](dl.acm.org/ft_gateway.cfm?id=3056100&type=pdf)]
+2. Azure Data Lake Store (ADLA) [[paper](http://dl.acm.org/ft_gateway.cfm?id=3056100&type=pdf)]
 
 
 ### Database
