@@ -21,3 +21,5 @@ Papers on cloud tech, written by cloud companies
 
 ## Formal Methods
 
+## Coordination
+* [Google Chubby](https://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf)
