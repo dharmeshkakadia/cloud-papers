@@ -11,10 +11,11 @@ Papers on cloud tech, written by cloud companies
 
 ### Database
 
-1. Azure CosmosDB/DocumentDB [[paper](http://www.vldb.org/pvldb/vol8/p1668-shukla.pdf)]
-2. Google Spanner [[paper](https://www.usenix.org/system/files/conference/osdi12/osdi12-final-16.pdf)] [[slides](https://www.usenix.org/sites/default/files/conference/protected-files/corbett_osdi12_slides.pptx)] [[talk](https://www.usenix.org/conference/osdi12/technical-sessions/presentation/corbett)]
-3. Amazon Dynamo [[paper](http://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)]
-4. (Amazon Aurora)[http://dl.acm.org/citation.cfm?id=3056101]
+* Azure CosmosDB/DocumentDB [[paper](http://www.vldb.org/pvldb/vol8/p1668-shukla.pdf)]
+* Google Spanner [[paper](https://www.usenix.org/system/files/conference/osdi12/osdi12-final-16.pdf)] [[slides](https://www.usenix.org/sites/default/files/conference/protected-files/corbett_osdi12_slides.pptx)] [[talk](https://www.usenix.org/conference/osdi12/technical-sessions/presentation/corbett)]
+* [Google Spanner SQL](https://dl.acm.org/citation.cfm?id=3056103)
+* Amazon Dynamo [[paper](http://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)]
+* [Amazon Aurora](http://dl.acm.org/citation.cfm?id=3056101)
 
 
 ## Compute
