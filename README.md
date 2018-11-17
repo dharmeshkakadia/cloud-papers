@@ -16,6 +16,7 @@ Papers on cloud tech, written by cloud companies
 * [Google Spanner SQL](https://dl.acm.org/citation.cfm?id=3056103)
 * Amazon Dynamo [[paper](http://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)]
 * [Amazon Aurora](http://dl.acm.org/citation.cfm?id=3056101)
+* [Amazon Aurora follow up paper - Amazon Aurora: On Avoiding Distributed Consensus for I/Os, Commits, and Membership Changes](https://dl.acm.org/citation.cfm?id=3183713.3196937)
 * [Snowflake Elastic Data Warehouse](https://dl.acm.org/citation.cfm?id=2903741)
 
 ## Compute
