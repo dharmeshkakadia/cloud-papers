@@ -26,3 +26,6 @@ Papers on cloud tech, written by cloud companies
 
 ## Coordination
 * [Google Chubby](https://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf)
+
+## Experience
+* [On designing and deploying internet-scale services](https://dl.acm.org/citation.cfm?id=1349444)
